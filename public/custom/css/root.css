@@ -1,0 +1,20 @@
+:root
+{
+    --main_blue:#0f0d1ff0;
+    --main_orange:#ff6600;
+
+    --side_hover:#b2b2b284;
+    --dropdown_hover:#b2b2b2;
+}
+
+
+.side_bar_background
+{
+    background-color: var(--main_blue) !important;
+}
+
+
+.sidebar .material-icons,.sidebar .sidebar-mini,.sidebar .logo-normal
+{
+    color: var(--main_orange) !important;
+}

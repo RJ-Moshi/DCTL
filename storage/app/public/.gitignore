@@ -1,0 +1,17 @@
+*
+!.gitignore
+!pictures
+!pictures/img1.jpg
+!pictures/img2.jpg
+!pictures/img3.jpg
+!pictures/avatar.jpg
+!pictures/marc.jpg
+!pictures/card-profile1-square.jpg
+
+!pictures-seed
+!pictures-seed/img1.jpg
+!pictures-seed/img2.jpg
+!pictures-seed/img3.jpg
+!pictures-seed/avatar.jpg
+!pictures-seed/marc.jpg
+!pictures-seed/card-profile1-square.jpg
